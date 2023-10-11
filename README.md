@@ -1,4 +1,4 @@
-[![Lucky's GitHub Banner](./assets/I-CODE-FOR-FUTURE.png)](https://luckyZer0.dev)
+[![Lucky's GitHub Banner](./assets/profile-banner.png)](https://luckyZer0.dev)
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
