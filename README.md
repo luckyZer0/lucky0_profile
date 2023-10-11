@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
 
 # 💫 About Me:
-I am LuckyZ, A very enthusiastic person when it comes to programming. Have experience in building native apps using Flutter. Also, have experience using Laravel.
+Passionate Junior Software Engineer with a strong programming background. Experienced in coding, problem-solving, and collaborating with cross-functional teams to develop innovative software solutions. Committed to continuous learning and quick adoption of new technologies. Eager to launch a successful career in software engineering, delivering high-performing and reliable software applications.
 
 
 # 💻 Tech Stack:
